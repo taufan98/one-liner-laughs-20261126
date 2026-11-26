@@ -1,0 +1,4 @@
+output/
+*.tar.gz
+transcripts/
+__pycache__/
